@@ -1,4 +1,4 @@
-# Generate Me Some Passwordls PLS 
+# Generate Me Some Passwords PLS 
 
 This Python script generates a comprehensive list of password variations from an input list of words by applying a series of transformations:
 
